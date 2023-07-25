@@ -1,4 +1,4 @@
-# 🏆 JPA & JDBC Exercises
+# 🏢 JPA & JDBC Exercises
 ¡Bienvenido a mi repositorio de ejercicios de JPA (Java Persistence API) y JDBC (Java Database Connectivity)!
 
 Aquí encontrarás un espacio dedicado a fortalecer tus habilidades en el manejo de bases de datos en Java mediante el uso de JPA y JDBC. Estos dos pilares fundamentales te permitirán interactuar con bases de datos relacionales de manera efectiva y profesional.
